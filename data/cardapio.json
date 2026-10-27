@@ -1,0 +1,107 @@
+[
+  {
+    "id": "1",
+    "dia": "Segunda-feira",
+    "tipo": "Café da manhã",
+    "descricao": "Pão com manteiga e leite.",
+    "categoria": "Café da manhã"
+  },
+  {
+    "id": "2",
+    "dia": "Segunda-feira",
+    "tipo": "Almoço",
+    "descricao": "Arroz, feijão, frango e salada.",
+    "categoria": "Almoço"
+  },
+  {
+    "id": "3",
+    "dia": "Segunda-feira",
+    "tipo": "Lanche da tarde",
+    "descricao": "Banana e biscoito.",
+    "categoria": "Lanche da tarde"
+  },
+  {
+    "id": "4",
+    "dia": "Terça-feira",
+    "tipo": "Café da manhã",
+    "descricao": "Pão com queijo e suco natural.",
+    "categoria": "Café da manhã"
+  },
+  {
+    "id": "5",
+    "dia": "Terça-feira",
+    "tipo": "Almoço",
+    "descricao": "Arroz, feijão, carne moída e legumes.",
+    "categoria": "Almoço"
+  },
+  {
+    "id": "6",
+    "dia": "Terça-feira",
+    "tipo": "Lanche da tarde",
+    "descricao": "Iogurte e fruta.",
+    "categoria": "Lanche da tarde"
+  },
+  {
+    "id": "7",
+    "dia": "Quarta-feira",
+    "tipo": "Café da manhã",
+    "descricao": "Cereal com leite e banana.",
+    "categoria": "Café da manhã"
+  },
+  {
+    "id": "8",
+    "dia": "Quarta-feira",
+    "tipo": "Almoço",
+    "descricao": "Arroz, feijão, peixe e salada.",
+    "categoria": "Almoço"
+  },
+  {
+    "id": "9",
+    "dia": "Quarta-feira",
+    "tipo": "Lanche da tarde",
+    "descricao": "Pão e suco natural.",
+    "categoria": "Lanche da tarde"
+  },
+  {
+    "id": "10",
+    "dia": "Quinta-feira",
+    "tipo": "Café da manhã",
+    "descricao": "Pão com requeijão e leite.",
+    "categoria": "Café da manhã"
+  },
+  {
+    "id": "11",
+    "dia": "Quinta-feira",
+    "tipo": "Almoço",
+    "descricao": "Arroz, feijão, frango e purê de batata.",
+    "categoria": "Almoço"
+  },
+  {
+    "id": "12",
+    "dia": "Quinta-feira",
+    "tipo": "Lanche da tarde",
+    "descricao": "Maçã e biscoito.",
+    "categoria": "Lanche da tarde"
+  },
+  {
+    "id": "13",
+    "dia": "Sexta-feira",
+    "tipo": "Café da manhã",
+    "descricao": "Pão com manteiga e leite.",
+    "categoria": "Café da manhã"
+  },
+  {
+    "id": "14",
+    "dia": "Sexta-feira",
+    "tipo": "Almoço",
+    "descricao": "Arroz, feijão, carne e legumes.",
+    "categoria": "Almoço"
+  },
+  {
+    "id": "15",
+    "dia": "Sexta-feira",
+    "tipo": "Lanche da tarde",
+    "descricao": "Vitamina de frutas.",
+    "categoria": "Lanche da tarde"
+  }
+]

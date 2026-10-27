@@ -1,26 +1,47 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+@theme {
+  --color-lilac-50: #f7f5fa;
+  --color-lilac-100: #efeaf5;
+  --color-lilac-200: #dfd5eb;
+  --color-lilac-300: #c5b3de;
+  --color-lilac-500: #9b7ebb;
+  --color-lilac-600: #8462a6;
+  --color-lilac-700: #6c4f88;
+  --color-lilac-900: #48345c;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f7f5fa;
+  color: #48345c;
+  font-family: system-ui, -apple-system, sans-serif;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+/* Modo Escuro (Dark Mode) */
+.dark body {
+  background-color: #221631 !important;
+  color: #f7f5fa !important;
+}
+
+.dark .bg-white {
+  background-color: #312146 !important;
+  color: #f7f5fa !important;
+  border-color: #4a3465 !important;
+}
+
+.dark .text-lilac-900, 
+.dark .text-lilac-800, 
+.dark .text-lilac-700 {
+  color: #e2d9eb !important;
+}
+
+.dark .bg-lilac-50, 
+.dark .bg-lilac-100 {
+  background-color: #432e5c !important;
+  color: #e2d9eb !important;
+  border-color: #5a3d7b !important;
 }
